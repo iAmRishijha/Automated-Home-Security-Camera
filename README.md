@@ -1,4 +1,4 @@
-# Automated Security Camera with Face Recognition
+# Automated Home Security Camera with Face Recognition
 
 ## Introduction
 This Python script is designed to create a simple automated security camera system with face recognition capabilities. The system captures live video from a camera, detects faces in the frames, and compares them to a preloaded set of known faces. If an unknown face is detected, it sends an email alert to the owner.
